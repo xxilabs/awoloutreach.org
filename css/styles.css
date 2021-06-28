@@ -1,0 +1,17 @@
+body {
+  font-family: Sans-Serif;
+  text-align: center;
+  background: #e7e7e7;
+  border-top: 10px solid #f0e130;
+  margin: 0;
+  padding-top: 200px;
+  color: #444;
+}
+
+a:link, a:visited, a:hover, a:focus {
+  color:inherit;
+}
+
+a:hover {
+  /* font-weight: bold; */
+}
